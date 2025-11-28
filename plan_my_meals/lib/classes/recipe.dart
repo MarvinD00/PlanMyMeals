@@ -1,15 +1,16 @@
 import 'ingredient.dart';
 import '../enums/meal_category.dart';
+import 'nutrition.dart';
 
 class Recipe {
   final String name;
   final int portions;
   final String instructions;
   final List<Ingredient> ingredients;
-  final double calories;
-  final double protein;
-  final double carbohydrates;
-  final double fats;
+  final int calories;
+  final int protein;
+  final int carbohydrates;
+  final int fats;
   final MealCategory category;
   final String? licenseInfo;
   final String? source;
