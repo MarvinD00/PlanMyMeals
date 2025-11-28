@@ -1,0 +1,151 @@
+[
+  {
+    "id": "bambus_huhn_shandong",
+    "name": "Bambus-Huhn 'Shandong'",
+    "portions": 4,
+    "ingredients": [
+      {"name": "Hühnerbrustfilet", "amount": 250, "unit": "g"},
+      {"name": "Sherry", "amount": 2, "unit": "EL"},
+      {"name": "Soja Sauce (Manis)", "amount": 2, "unit": "EL"},
+      {"name": "Ananas in Scheiben", "amount": 850, "unit": "ml"},
+      {"name": "Bambus (aus dem Glas)", "amount": 125, "unit": "g"},
+      {"name": "Frühlingszwiebel", "amount": 1, "unit": "Stk"},
+      {"name": "Öl", "amount": 2, "unit": "EL"},
+      {"name": "Mischnüsse", "amount": 100, "unit": "g"},
+      {"name": "Tomatenmark", "amount": 2, "unit": "EL"},
+      {"name": "Wasser", "amount": 250, "unit": "ml"},
+      {"name": "Maggi Fix für China-Pfanne", "amount": 1, "unit": "Tüte"}
+    ],
+    "instructions": "Fleisch in feine Streifen schneiden. Sherry und Soja Sauce verrühren, darüber geben und etwa 30 Minuten ziehen lassen. Ananas abtropfen lassen, Saft auffangen. Ananas in Achtel schneiden. Bambus und Frühlingszwiebel stäbchengerecht schneiden. 1 EL Öl im Wok heiß werden lassen, Fleisch nach und nach darin anbraten, auf eine Platte geben und warm stellen. In 1 EL Öl Mischnüsse kurz anbraten, Ananas und Bambus dazugeben, heiß werden lassen und über das Hühnerfleisch geben. Tomatenmark, Wasser und 1/8 l Ananassaft dazugießen. Maggi Fix einrühren, zum Kochen bringen und 10 Minuten kochen. Sauce über das Gericht gießen. Dazu Reis servieren.",
+    "nutrition": {
+      "energy_kcal": 495,
+      "energy_kj": 2070,
+      "protein_g": 21,
+      "fat_g": 21,
+      "carbs_g": 39
+    },
+    "licenseInfo": "Dieses Dokument ist lizenziert unter der Creative Commons Lizenz BY‑SA 3.0. (c) 2022 Marcus Petersen‑Clausen, (c) 2022 Köche‑Nord.de",
+    "source": "https://forum.xn--kche-nord-07a.de/viewtopic.php?f=86&t=31972"
+  },
+  {
+    "id": "bambusfleisch_suesssauer",
+    "name": "Bambusfleisch süß-sauer",
+    "portions": 4,
+    "ingredients": [
+      {"name": "Mu-Err-Pilze", "amount": 20, "unit": "g"},
+      {"name": "Bambussprossen", "amount": 580, "unit": "ml"},
+      {"name": "Lauch", "amount": 4, "unit": "Stangen"},
+      {"name": "Schweineschnitzel-Fleisch", "amount": 600, "unit": "g"},
+      {"name": "Sojaöl", "amount": 4, "unit": "EL"},
+      {"name": "Chinagewürz", "amount": 2, "unit": "TL"},
+      {"name": "China-Essig", "amount": 8, "unit": "EL"},
+      {"name": "Meersalz", "amount": 1, "unit": "Prise"},
+      {"name": "Schwarzer Pfeffer", "amount": 0.25, "unit": "TL"},
+      {"name": "Zucker", "amount": 4, "unit": "EL"},
+      {"name": "Sojasauce Ketjap Manis", "amount": 8, "unit": "EL"},
+      {"name": "Hühnerbrühe", "amount": 200, "unit": "ml"},
+      {"name": "Maisstärke", "amount": 2, "unit": "EL"}
+    ],
+    "instructions": "Pilze in Wasser kochen, abgießen und in Streifen schneiden. Bambussprossen abtropfen lassen. Lauch putzen und schneiden. Fleisch in Streifen schneiden, anbraten, würzen und beiseite stellen. Gemüse andünsten, mit Essig, Salz, Pfeffer, Zucker und Sojasauce abschmecken. Hühnerbrühe dazugeben. Fleisch wieder hinzufügen, Stärke einrühren und kurz aufkochen.",
+    "nutrition": {
+      "energy_kcal": 540,
+      "energy_kj": 2260,
+      "protein_g": 30,
+      "fat_g": 25,
+      "carbs_g": 45
+    },
+    "licenseInfo": "Dieses Dokument ist lizenziert unter der Creative Commons Lizenz BY‑SA 3.0. (c) 2022 Marcus Petersen‑Clausen, (c) 2022 Köche‑Nord.de",
+    "source": "https://forum.xn--kche-nord-07a.de/viewtopic.php?f=86&t=31971"
+  },
+  {
+    "id": "bami_goreng_putenbrust",
+    "name": "Bami Goreng mit Putenbrust",
+    "portions": 4,
+    "ingredients": [
+      {"name": "Putenbrustfilet", "amount": 400, "unit": "g"},
+      {"name": "pikante Sojasoße", "amount": 4, "unit": "EL"},
+      {"name": "Maisstärke", "amount": 1, "unit": "TL"},
+      {"name": "Zucker", "amount": 2, "unit": "TL"},
+      {"name": "schwarze Pilze", "amount": 25, "unit": "g"},
+      {"name": "Frühlingszwiebeln", "amount": 3, "unit": "Stk"},
+      {"name": "Paprika rot", "amount": 1, "unit": "Stk"},
+      {"name": "Paprika grün", "amount": 1, "unit": "Stk"},
+      {"name": "Bohnenkeime", "amount": 350, "unit": "g"},
+      {"name": "Eiernudeln", "amount": 250, "unit": "g"},
+      {"name": "Sonnenblumenöl", "amount": 3, "unit": "EL"},
+      {"name": "Sambal Oelek", "amount": 1, "unit": "TL"},
+      {"name": "5-Gewürz-Mischung", "amount": 1, "unit": "TL"}
+    ],
+    "instructions": "Putenbrust in Streifen schneiden und marinieren. Pilze einweichen, Gemüse schneiden. Öl erhitzen, Fleisch anbraten und beiseite stellen. Gemüse anbraten, würzen, Nudeln und Fleisch hinzufügen, kurz erhitzen und servieren.",
+    "nutrition": {
+      "energy_kcal": 600,
+      "energy_kj": 2510,
+      "protein_g": 38,
+      "fat_g": 22,
+      "carbs_g": 60
+    },
+    "licenseInfo": "Dieses Dokument ist lizenziert unter der Creative Commons Lizenz BY‑SA 3.0. (c) 2022 Marcus Petersen‑Clausen, (c) 2022 Köche‑Nord.de",
+    "source": "https://forum.xn--kche-nord-07a.de/viewtopic.php?f=86&t=31970"
+  },
+  {
+    "id": "buddha_gemuese",
+    "name": "Buddha-Gemüse",
+    "portions": 2,
+    "ingredients": [
+      {"name": "Tongu-Pilze", "amount": 6, "unit": "Stk"},
+      {"name": "Lilienknospen", "amount": 3, "unit": "EL"},
+      {"name": "Wolkenohrpilze", "amount": 2, "unit": "EL"},
+      {"name": "Glasnudeln", "amount": 50, "unit": "g"},
+      {"name": "Tofu", "amount": 250, "unit": "g"},
+      {"name": "Sojasauce (1)", "amount": 2, "unit": "EL"},
+      {"name": "Sesamöl (1)", "amount": 1, "unit": "TL"},
+      {"name": "Bambussprossen", "amount": 100, "unit": "g"},
+      {"name": "Strohpilze", "amount": 100, "unit": "g"},
+      {"name": "Zuckerschoten", "amount": 100, "unit": "g"},
+      {"name": "Chinakohl", "amount": 100, "unit": "g"},
+      {"name": "Maiskölbchen", "amount": 50, "unit": "g"},
+      {"name": "Sojasprossen", "amount": 100, "unit": "g"},
+      {"name": "Frühlingszwiebeln", "amount": 3, "unit": "Stk"},
+      {"name": "Ingwer", "amount": 1, "unit": "Stk"},
+      {"name": "Knoblauchzehen", "amount": 2, "unit": "Stk"},
+      {"name": "Öl", "amount": 4, "unit": "EL"},
+      {"name": "Sojasauce (2)", "amount": 2, "unit": "EL"},
+      {"name": "Sesamöl (2)", "amount": 2, "unit": "TL"}
+    ],
+    "instructions": "Pilze und Nudeln vorbereiten. Tofu frittieren. Gemüse nach Reihenfolge blanchieren und anbraten. Tofu hinzufügen, mit Sojasaucen und Sesamöl abschmecken, heiß servieren.",
+    "nutrition": {
+      "energy_kcal": 420,
+      "energy_kj": 1755,
+      "protein_g": 25,
+      "fat_g": 20,
+      "carbs_g": 35
+    },
+    "licenseInfo": "Dieses Dokument ist lizenziert unter der Creative Commons Lizenz BY‑SA 3.0. (c) 2022 Marcus Petersen‑Clausen, (c) 2022 Köche‑Nord.de",
+    "source": "https://forum.xn--kche-nord-07a.de/viewtopic.php?f=36&t=25207&p=28868"
+  },
+  {
+    "id": "chiang_yu_chi",
+    "name": "Chiang-yu-chi (Huhn in Sojasauce)",
+    "portions": 5,
+    "ingredients": [
+      {"name": "Brathuhn", "amount": 2250, "unit": "g"},
+      {"name": "Wasser", "amount": 500, "unit": "ml"},
+      {"name": "Sojasauce", "amount": 500, "unit": "ml"},
+      {"name": "Reiswein / Sherry", "amount": 60, "unit": "ml"},
+      {"name": "Ingwer", "amount": 5, "unit": "Scheiben"},
+      {"name": "Sternanis", "amount": 30, "unit": "g"},
+      {"name": "Kandiszucker", "amount": 30, "unit": "g"},
+      {"name": "Sesamsamenöl", "amount": 5, "unit": "TL"}
+    ],
+    "instructions": "Huhn waschen. Flüssigkeiten und Gewürze aufkochen, Huhn einlegen, 40 Minuten kochen, 2-3 Stunden abkühlen lassen. Huhn portionieren und mit Sauce servieren.",
+    "nutrition": {
+      "energy_kcal": 750,
+      "energy_kj": 3140,
+      "protein_g": 70,
+      "fat_g": 45,
+      "carbs_g": 20
+    },
+    "licenseInfo": "Dieses Dokument ist lizenziert unter der Creative Commons Lizenz BY‑SA 3.0. (c) 2022 Marcus Petersen‑Clausen, (c) 2022 Köche‑Nord.de",
+    "source": "https://forum.xn--kche-nord-07a.de/viewtopic.php?f=36&t=25207&p=28868"
+  }
+]
