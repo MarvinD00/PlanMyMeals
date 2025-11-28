@@ -1,4 +1,4 @@
-enum DietPreferences {
+enum DietPreference {
   none,
   vegetarian, // no meat
   vegan, // no animal products
